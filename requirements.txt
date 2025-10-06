@@ -1,13 +1,5 @@
-
-osmnx
-geopandas
-pandas
-numpy
-networkx
-matplotlib
-folium
-scipy
 pulp
 ortools
-requests
-jupyterlab
+osmnx
+pandas
+matplotlib
