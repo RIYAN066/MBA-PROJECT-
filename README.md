@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RIYAN066/MBA-PROJECT-/blob/main/notebooks/analysis_notebook_colab.ipynb)
 
 # Optimizing Quick Commerce Logistics in Kochi
 
